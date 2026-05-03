@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور روحي في العتمة دليلي
+> شوقي لك مثل نار في ليلي
+> خذني إليك بلا خوف ولا حيرة
+> قلبي ينادي من أعماق السكينة
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
