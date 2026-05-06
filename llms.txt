@@ -10,9 +10,10 @@
 |-------|---------|
 | Title | Afkar Btet2assem |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 20, 2026 |
+| Lyric Writing Date | May 03, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/afkar-btet2assem/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Request Licensing for Afkar Btet2assem](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
